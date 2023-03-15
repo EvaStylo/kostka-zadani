@@ -9,4 +9,4 @@ const otoceniKostky = () => {
 	}
 	kostka.src = `img/side${cislo}.svg`
 }
-document.addEventListener('keydown', otoceniKostky)
+document.addEventListener('keydown', otoceniKostky) 
